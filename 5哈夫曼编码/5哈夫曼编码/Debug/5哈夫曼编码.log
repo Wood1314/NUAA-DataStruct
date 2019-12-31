@@ -1,0 +1,9 @@
+﻿  5哈夫曼编码.cpp
+C:\Users\w10\Desktop\DataStruct\课程设计\5哈夫曼编码\5哈夫曼编码\5哈夫曼编码.cpp(114): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+C:\Users\w10\Desktop\DataStruct\课程设计\5哈夫曼编码\5哈夫曼编码\5哈夫曼编码.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\w10\Desktop\DataStruct\课程设计\5哈夫曼编码\5哈夫曼编码\5哈夫曼编码.cpp(172): warning C4101: “ch”: 未引用的局部变量
+C:\Users\w10\Desktop\DataStruct\课程设计\5哈夫曼编码\5哈夫曼编码\5哈夫曼编码.cpp(197): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+  C:\Users\w10\Desktop\DataStruct\课程设计\5哈夫曼编码\5哈夫曼编码\5哈夫曼编码.cpp(197): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  C:\Users\w10\Desktop\DataStruct\课程设计\5哈夫曼编码\5哈夫曼编码\5哈夫曼编码.cpp(197): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  C:\Users\w10\Desktop\DataStruct\课程设计\5哈夫曼编码\5哈夫曼编码\5哈夫曼编码.cpp(197): note: 此参数用作缓冲区大小
+  5哈夫曼编码.vcxproj -> C:\Users\w10\Desktop\DataStruct\课程设计\5哈夫曼编码\Debug\5哈夫曼编码.exe

@@ -1,0 +1,4 @@
+﻿  4族谱你管理系统.cpp
+C:\Users\w10\Desktop\DataStruct\课程设计\4族谱你管理系统\4族谱你管理系统\4族谱你管理系统.cpp(194): warning C4715: “GetDepth”: 不是所有的控件路径都返回值
+C:\Users\w10\Desktop\DataStruct\课程设计\4族谱你管理系统\4族谱你管理系统\4族谱你管理系统.cpp(475): warning C4715: “SearchForDelete”: 不是所有的控件路径都返回值
+  4族谱你管理系统.vcxproj -> C:\Users\w10\Desktop\DataStruct\课程设计\4族谱你管理系统\Debug\4族谱你管理系统.exe

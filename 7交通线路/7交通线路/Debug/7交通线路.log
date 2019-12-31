@@ -1,0 +1,7 @@
+﻿  7交通线路.cpp
+C:\Users\w10\Desktop\DataStruct\课程设计\7交通线路\7交通线路\7交通线路.cpp(53): warning C4101: “i”: 未引用的局部变量
+C:\Users\w10\Desktop\DataStruct\课程设计\7交通线路\7交通线路\7交通线路.cpp(277): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“info”
+C:\Users\w10\Desktop\DataStruct\课程设计\7交通线路\7交通线路\7交通线路.cpp(279): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“info”
+C:\Users\w10\Desktop\DataStruct\课程设计\7交通线路\7交通线路\7交通线路.cpp(302): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“info”
+C:\Users\w10\Desktop\DataStruct\课程设计\7交通线路\7交通线路\7交通线路.cpp(304): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“info”
+  7交通线路.vcxproj -> C:\Users\w10\Desktop\DataStruct\课程设计\7交通线路\Debug\7交通线路.exe
